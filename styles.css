@@ -1,0 +1,40 @@
+html{
+    font-family: Outfit, sans-serif;
+    background-color: hsl(212, 45%, 89%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.card{
+    height: 497px;
+    width: 320px;
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+    border-radius: 20px;
+    margin: 16px;
+    background: drop;
+    filter: drop-shadow(0px 25px 25px #00000005);
+}
+
+.qrcode{
+    height: 288px;
+    border-radius: 10px;
+    margin: 16px
+}
+
+.card h3{
+    margin: 8px;
+    font-weight: 700;
+    color: hsl(218, 44%, 22%);
+}
+
+.card p{
+    margin: 8px;
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    font-weight: 400;
+}
