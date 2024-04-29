@@ -8,7 +8,9 @@ html{
     justify-content: center;
     align-items: center;
     height: 100vh;
+    flex-direction: column;
 }
+
 .card{
     height: 497px;
     width: 320px;
