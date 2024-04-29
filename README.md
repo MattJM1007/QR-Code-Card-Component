@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/MattJM1007/QR-Code-Card-Component)
+- [Live Site URL](https://mattjm1007.github.io/QR-Code-Card-Component/)
 
 ## My process
 
@@ -51,4 +51,4 @@ I want to get more comfortable with laying out a web page and content. I still g
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/MattJM1007)
+- Frontend Mentor - [@MattJM1007](https://www.frontendmentor.io/profile/MattJM1007)
