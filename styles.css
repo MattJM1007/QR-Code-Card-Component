@@ -10,7 +10,6 @@ html{
     height: 100vh;
     flex-direction: column;
 }
-
 .card{
     height: 497px;
     width: 320px;
@@ -32,6 +31,7 @@ html{
     margin: 8px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
+    font-size: 22px;
 }
 
 .card p{
