@@ -3,14 +3,14 @@ html{
     background-color: hsl(212, 45%, 89%);
 }
 
-.container{
+main{
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     flex-direction: column;
 }
-.card{
+article{
     height: 497px;
     width: 320px;
     background-color: hsl(0, 0%, 100%);
@@ -27,15 +27,15 @@ html{
     margin: 16px
 }
 
-.card h3{
-    margin: 8px;
+article h1{
+    margin: 3px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     font-size: 22px;
 }
 
-.card p{
-    margin: 8px;
+article p{
+    margin: 17px;
     color: hsl(220, 15%, 55%);
     font-size: 15px;
     font-weight: 400;
